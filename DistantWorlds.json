@@ -1,0 +1,29 @@
+{
+   "markers" : [
+      {
+         "pin" : "white",
+         "text" : "1 Rendezvous Point",
+         "x" : 6026,
+         "y" : -5,
+         "z" : 42548
+      },
+      {
+         "pin" : "white",
+         "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
+         "x" : -2271,
+         "y" : -63,
+         "z" : 53714
+      }
+   ],
+   "lines" : [
+      {
+         "x1" : 6026,
+         "y2" : -5,
+         "z1" : 42548,
+         "x2" : -2271,
+         "y2" : -63,
+         "z2" : 53714,
+         "color" : "#FFF"
+      }
+   ]
+}
