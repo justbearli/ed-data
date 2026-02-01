@@ -9,7 +9,7 @@
       },
       {
          "pin" : "white",
-         "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
+         "text" : "2 Thuecheae MT-Q e5-8\nThe Seldowitch Nebula",
          "x" : -2271,
          "y" : -63,
          "z" : 53714
@@ -27,5 +27,6 @@
       }
    ]
 }
+
 
 
