@@ -2,17 +2,24 @@
    "markers" : [
       {
          "pin" : "white",
+         "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
+         "x" : -2271,
+         "y" : -63,
+         "z" : 53714
+      },
+      {
+         "pin" : "white",
          "text" : "1 Rendezvous Point",
          "x" : 6026,
          "y" : -5,
          "z" : 42548
       },
       {
-         "pin" : "white",
-         "text" : "2 Thuecheae MT-Q e5-8\nThe Seldowitch Nebula",
-         "x" : -2271,
-         "y" : -63,
-         "z" : 53714
+         "pin" : "red",
+         "text" : "Found DSSA Carrier: Pyriveae EC-K b41-3",
+         "x" : -1184,
+         "y" : -276,
+         "z" : 54869
       }
    ],
    "lines" : [
@@ -27,6 +34,3 @@
       }
    ]
 }
-
-
-
