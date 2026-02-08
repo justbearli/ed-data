@@ -2,6 +2,13 @@
    "markers" : [
       {
          "pin" : "white",
+         "text" : "3 Beagle Point\nDSSA Distant Worlds 'Endeavour'\nScience Projects Begin",
+         "x" : -1112,
+         "y" : -134,
+         "z" : 65270
+      },
+      {
+         "pin" : "white",
          "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
          "x" : -2271,
          "y" : -63,
@@ -38,6 +45,15 @@
    ],
    "lines" : [
       {
+         "x1" : -2271,
+         "y1" : -63,
+         "z1" : 53714,
+         "x2" : -1112,
+         "y2" : -134,
+         "z2" : 65270,
+         "color" : "#BBB"
+      },
+      {
          "x1" : 6026,
          "y1" : -5,
          "z1" : 42548,
@@ -53,7 +69,7 @@
          "x2" : 6026,
          "y2" : -5,
          "z2" : 42548,
-         "color" : "#888"
+         "color" : "#444"
       },
       {
          "x1" : 537,
@@ -62,7 +78,7 @@
          "x2" : -9346,
          "y2" : -1472,
          "z2" : 19659,
-         "color" : "#888"
+         "color" : "#444"
       }
    ]
 }
