@@ -1,5 +1,19 @@
 {
    "markers" : [
+ 	  {
+         "pin" : "green",
+         "text" : "The Abyss\nScience Carrier 'Distant Suns'\nFleckeae SZ-O e6-0",
+         "x" : 645,
+         "y" : -59,
+         "z" : 64072
+      },
+      {
+         "pin" : "white",
+         "text" : "4 Eictach KU-D d13-4\nEclipsion Halo",
+         "x" : 8113,
+         "y" : -231,
+         "z" : 60246
+      },
       {
          "pin" : "white",
          "text" : "3 Beagle Point\nDSSA Distant Worlds 'Endeavour'\nScience Projects Begin",
@@ -44,6 +58,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : -1112,
+         "y1" : -134,
+         "z1" : 65270,
+         "x2" : 8113,
+         "y2" : -231,
+         "z2" : 60246,
+         "color" : "#BBB"
+      },
       {
          "x1" : -2271,
          "y1" : -63,
