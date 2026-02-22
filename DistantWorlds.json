@@ -1,5 +1,19 @@
 {
    "markers" : [
+		{
+         "pin" : "blue",
+         "text" : "Acheron\nScience Carrier 'Fimbulthul'\nSlaiyi DL-P e5-1",
+         "x" : 10995,
+         "y" : 53,
+         "z" : 58839
+		},
+      {
+         "pin" : "white",
+         "text" : "5 Blo Chroa ZE-R e4-6\nGlaciem Nebula",
+         "x" : 5966,
+         "y" : 78,
+         "z" : 53517
+      },
  	  {
          "pin" : "green",
          "text" : "The Abyss\nScience Carrier 'Distant Suns'\nFleckeae SZ-O e6-0",
@@ -58,6 +72,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 8113,
+         "y1" : -231,
+         "z1" : 60246,
+         "x2" : 5966,
+         "y2" : 78,
+         "z2" : 53517,
+         "color" : "#BBB"
+      },
       {
          "x1" : -1112,
          "y1" : -134,
