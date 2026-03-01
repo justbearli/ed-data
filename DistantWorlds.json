@@ -1,6 +1,20 @@
 {
    "markers" : [
 		{
+         "pin" : "green",
+         "text" : "Formorian Frontier\nScience Carrier 'Distant Suns'\nDrootuia AA-A g1",
+         "x" : 3934,
+         "y" : -688,
+         "z" : 51625
+        },
+      {
+         "pin" : "white",
+         "text" : "6 Byua Auwsy EL-P e5-31\nVeil's Ember",
+         "x" : 10002,
+         "y" : 66,
+         "z" : 47304
+      },
+		{
          "pin" : "blue",
          "text" : "Acheron\nScience Carrier 'Fimbulthul'\nSlaiyi DL-P e5-1",
          "x" : 10995,
@@ -72,6 +86,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 5966,
+         "y1" : 78,
+         "z1" : 53517,
+         "x2" : 10002,
+         "y2" : 66,
+         "z2" : 47304,
+         "color" : "#BBB"
+      },
       {
          "x1" : 8113,
          "y1" : -231,
