@@ -1,33 +1,5 @@
 {
    "markers" : [
-      {
-         "pin" : "white",
-         "text" : "8 Roefoo ZE-H d10-0\nKhazad-dûm",
-         "x" : 21481,
-         "y" : -1005,
-         "z" : 43369
-      },
-		{
-         "pin" : "greencarrier",
-         "text" : "Mare Somnia\nScience Carrier 'Distant Suns'\nBlia Aod QE-Q e5-0\nThe Minions of Morpheus",
-         "x" : 25598,
-         "y" : 722,
-         "z" : 43507
-        },
-      {
-         "pin" : "white",
-         "text" : "7 Byae Aowsy GR-N d6-52\nGuardian of the Twins",
-         "x" : 14408,
-         "y" : 18,
-         "z" : 44313
-      },
-		{
-         "pin" : "bluecarrier",
-         "text" : "The Veils\nScience Carrier 'Fimbulthul'\nPrue Pruae AA-A h29",
-         "x" : 16866,
-         "y" : -236,
-         "z" : 42432
-		},
 		{
          "pin" : "greencarrier",
          "text" : "Formorian Frontier\nScience Carrier 'Distant Suns'\nDrootuia AA-A g1",
@@ -114,24 +86,6 @@
       }
    ],
    "lines" : [
-      {
-         "x1" : 14408,
-         "y1" : 18,
-         "z1" : 44313,
-         "x2" : 21481,
-         "y2" : -1005,
-         "z2" : 43369,
-         "color" : "#BBB"
-      },
-      {
-         "x1" : 10002,
-         "y1" : 66,
-         "z1" : 47304,
-         "x2" : 14408,
-         "y2" : 18,
-         "z2" : 44313,
-         "color" : "#BBB"
-      },
       {
          "x1" : 5966,
          "y1" : 78,
