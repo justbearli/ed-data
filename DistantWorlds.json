@@ -8,13 +8,6 @@
          "z" : 44313
       },
 		{
-         "pin" : "blue",
-         "text" : "The Veils\nScience Carrier 'Fimbulthul'\nPrue Pruae AA-A h29",
-         "x" : 16866,
-         "y" : -236,
-         "z" : 42432
-		},
-		{
          "pin" : "greencarrier",
          "text" : "Formorian Frontier\nScience Carrier 'Distant Suns'\nDrootuia AA-A g1",
          "x" : 3934,
@@ -174,3 +167,4 @@
       }
    ]
 }
+
