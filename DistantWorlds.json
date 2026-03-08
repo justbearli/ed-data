@@ -1,5 +1,19 @@
 {
    "markers" : [
+      {
+         "pin" : "white",
+         "text" : "7 Byae Aowsy GR-N d6-52\nGuardian of the Twins",
+         "x" : 14408,
+         "y" : 18,
+         "z" : 44313
+      },
+		{
+         "pin" : "blue",
+         "text" : "The Veils\nScience Carrier 'Fimbulthul'\nPrue Pruae AA-A h29",
+         "x" : 16866,
+         "y" : -236,
+         "z" : 42432
+		},
 		{
          "pin" : "greencarrier",
          "text" : "Formorian Frontier\nScience Carrier 'Distant Suns'\nDrootuia AA-A g1",
@@ -15,7 +29,7 @@
          "z" : 47304
       },
 		{
-         "pin" : "bluecarrier",
+         "pin" : "blue",
          "text" : "Acheron\nScience Carrier 'Fimbulthul'\nSlaiyi DL-P e5-1",
          "x" : 10995,
          "y" : 53,
@@ -86,6 +100,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 10002,
+         "y1" : 66,
+         "z1" : 47304,
+         "x2" : 14408,
+         "y2" : 18,
+         "z2" : 44313,
+         "color" : "#BBB"
+      },
       {
          "x1" : 5966,
          "y1" : 78,
