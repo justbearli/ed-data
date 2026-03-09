@@ -22,7 +22,7 @@
          "z" : 47304
       },
 		{
-         "pin" : "blue",
+         "pin" : "bluecarrier",
          "text" : "Acheron\nScience Carrier 'Fimbulthul'\nSlaiyi DL-P e5-1",
          "x" : 10995,
          "y" : 53,
@@ -167,4 +167,5 @@
       }
    ]
 }
+
 
