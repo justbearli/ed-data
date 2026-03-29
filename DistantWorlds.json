@@ -1,6 +1,20 @@
 {
    "markers" : [
       {
+         "pin" : "white",
+         "text" : "9 Phreia Byio PT-V c17-0\nPhlegethon's Sentinels",
+         "x" : 23978,
+         "y" : -620,
+         "z" : 36818
+      },
+		{
+         "pin" : "greencarrier",
+         "text" : "Mare Somnia\nScience Carrier 'Distant Suns'\nBlia Aod QE-Q e5-0\nThe Minions of Morpheus",
+         "x" : 25598,
+         "y" : 722,
+         "z" : 43507
+        },
+      {
          "pin" : "ocellus",
          "text" : "8 Roefoo ZE-H d10-0\nRainbow's End @ Khazad-dûm",
          "x" : 21481,
@@ -107,6 +121,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 21481,
+         "y1" : -1005,
+         "z1" : 43369,
+         "x2" : 23978,
+         "y2" : -620,
+         "z2" : 36818,
+         "color" : "#BBB"
+      },
       {
          "x1" : 14408,
          "y1" : 18,
