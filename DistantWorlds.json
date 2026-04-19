@@ -1,12 +1,12 @@
 {
    "markers" : [
-		{
-         "pin" : "greencarrier",
-         "text" : "Trojan Belt\nScience Carrier 'Distant Suns'\nSpase ER-B c14-6",
-         "x" : 18598,
-         "y" : -842,
-         "z" : 32819
-        },
+      {
+         "pin" : "white",
+         "text" : "12 Phrua Flyuae ZE-A e7\nSyrenthis Verge",
+         "x" : 11664,
+         "y" : -1072,
+         "z" : 23311
+      },
       {
          "pin" : "white",
          "text" : "11 Hypua Pruae ZR-H d11-59\nStarlit Dreamscape",
@@ -14,6 +14,13 @@
          "y" : -95,
          "z" : 25533
       },
+		{
+         "pin" : "greencarrier",
+         "text" : "Trojan Belt\nScience Carrier 'Distant Suns'\nFlimbuae CA-A e2",
+         "x" : 18265,
+         "y" : 31,
+         "z" : 27124
+        },
       {
          "pin" : "white",
          "text" : "10 Phrooe Blou AA-A h62\nScylla and Charybdis",
@@ -21,6 +28,13 @@
          "y" : -73,
          "z" : 34279
       },
+		{
+         "pin" : "whitecarrier",
+         "text" : "Trojan Belt\nScience Carrier 'Distant Suns'\nSpase ER-B c14-6",
+         "x" : 18598,
+         "y" : -842,
+         "z" : 32819
+        },
       {
          "pin" : "white",
          "text" : "9 Phreia Byio PT-V c17-0\nPhlegethon's Sentinels",
@@ -149,6 +163,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 18451,
+         "y1" : -95,
+         "z1" : 25533,
+         "x2" : 11664,
+         "y2" : -1072,
+         "z2" : 23311,
+         "color" : "#BBB"
+      },
       {
          "x1" : 18972,
          "y1" : -73,
