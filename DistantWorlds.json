@@ -2,6 +2,20 @@
    "markers" : [
       {
          "pin" : "white",
+         "text" : "13 Eorl Auwsy WB-V a114-1\nTeal Nebula",
+         "x" : 4935,
+         "y" : 178,
+         "z" : 20646
+      },
+	    {
+         "pin" : "bluecarrier",
+         "text" : "Arcadian Stream\nScience Carrier 'Fimbulthul'\nCloomaa EA-A e70",
+         "x" : 9674,
+         "y" : 73,
+         "z" : 24646
+		},
+      {
+         "pin" : "white",
          "text" : "12 Phrua Flyuae ZE-A e7\nSyrenthis Verge",
          "x" : 11664,
          "y" : -1072,
@@ -15,7 +29,7 @@
          "z" : 25533
       },
 		{
-         "pin" : "greencarrier",
+         "pin" : "whitecarrier",
          "text" : "Trojan Belt\nScience Carrier 'Distant Suns'\nFlimbuae CA-A e2",
          "x" : 18265,
          "y" : 31,
@@ -51,7 +65,7 @@
 		},
       {
          "pin" : "ocellus",
-         "text" : "8 Roefoo ZE-H d10-0\nRainbow's End @ Khazad-dûm",
+         "text" : "8 Roefoo ZE-H d10-0\nRainbow's End @ Khazad-dÃ»m",
          "x" : 21481,
          "y" : -1005,
          "z" : 43369
@@ -163,6 +177,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 11664,
+         "y1" : -1072,
+         "z1" : 23311,
+         "x2" : 4935,
+         "y2" : 178,
+         "z2" : 20646,
+         "color" : "#BBB"
+      },
       {
          "x1" : 18451,
          "y1" : -95,
